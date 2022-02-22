@@ -1,0 +1,54 @@
+.food__food--item {
+    background-color: #fff;
+    border-radius: 5px;
+    overflow: hidden;
+}
+
+.food__food--item img {
+    width: 100%;
+}
+
+.food__food--content {
+    padding: 15px;
+}
+
+.food__food--content h4 {
+    font-size: 22px;
+    font-weight: 500;
+    margin-bottom: 0;
+}
+
+.food__food--price {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+}
+
+.food__food--price h4 {
+    width: 100%;
+}
+
+.food__food--price--right {
+    margin-left: auto;
+}
+
+.food__food--price--right span {
+    font-size: 26px;
+    font-weight: 600;
+    color: var(--primary-color);
+}
+
+.food__item__footer {
+    padding-top: 20px;
+}
+
+.full_width_btn {
+    display: block;
+    width: 100%;
+}
+
+.full_width_btn--active {
+    display: block;
+    width: 100%;
+    background-color: #7f8c8d;
+}

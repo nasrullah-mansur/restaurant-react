@@ -1,0 +1,14 @@
+.ratting {
+    display: flex;
+    padding: 10px 0;
+}
+
+.ratting__icon {
+    font-size: 12px;
+    color: #ddd;
+    padding-right: 4px;
+}
+
+.ratting__icon--active {
+    color: var(--primary-color);
+}
