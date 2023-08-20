@@ -25,6 +25,7 @@ const Header = () => {
         document.body.style.overflow = 'scroll';
     }
 
+
     return (
         <Fragment>
             <header className={classes.header}>
